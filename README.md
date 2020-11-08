@@ -1,6 +1,6 @@
 # [Barplot on LEGO data](https://alfred-kctang.github.io/d3-barplot/)
 
-This project demonstrates how a data-driven simple barplot is created using the visualization library, D3.
+This project demonstrates how a simple data-driven barplot is created using the visualization library, D3.
 
 ## License
 
